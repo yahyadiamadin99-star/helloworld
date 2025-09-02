@@ -1,23 +1,23 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #000000;
+    color: #000000;
     margin: 0;
     padding: 0;
   }
   
   .container {
-    max-width: 600px;
+    max-width: 800px;
     margin: 50px auto;
-    padding: 20px;
-    background-color: #fff;
+    padding: 50px;
+    background-color: #ebebeb;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   }
   
   h1 {
     text-align: center;
-    color: #007acc;
+    color: #000000;
     margin-bottom: 20px;
   }
   
@@ -27,13 +27,13 @@ body {
   }
   
   strong {
-    color: #222;
+    color: #000000;
   }
   
   footer {
     text-align: center;
     margin-top: 30px;
-    color: #777;
+    color: #000000;
     font-size: 0.9em;
   }
   
